@@ -1,1 +1,3 @@
-# EditTwitterImage
+# EditTwitterImage　　
+twitterのアイコン画像を自分へ返信した画像に変更します。　　
+Herokuへのデプロイもしましたが、まだ自動化仕切れてはいないので自動化の方法を考えています。
